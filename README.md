@@ -1,4 +1,4 @@
-# senbee_codetest_2_company_manager
+# senbee_codetest_3_company_manager
 
 ## Objective
 
